@@ -11,7 +11,5 @@ This repository contains datasets used in various machine learning projects. Lar
 | `Breast-Cancer-Dataset.csv`             | Contains diagnostic data for breast cancer classification.                 |
 | `delaney_solubility_with_descriptors.csv` | Molecular solubility data with chemical descriptors from Delaney dataset. |
 
-## ⚙️ Setup Instructions
 
-### 1. Clone this repo
 
